@@ -1,14 +1,14 @@
  HEAD
 body{
     background:black ;
-    color: blue;
+    color: red;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #cabecera
 {
-    background: #33A;
+    background: red;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
